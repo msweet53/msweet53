@@ -15,5 +15,7 @@ My DE Engineering III CircuitPython learning experience repo can be found here: 
 Currently I am working on an Electro-magnetic Coil Projectile Launching Device with my friends Maxy Tyree and Watts Brown. The repo for that can be found here: https://github.com/mtyree18/CoilLauncher
 
 You can reach me at my personal email or cell phone number. Both will be listed below.
+
 Personal Email: maxsweet511@gmail.com
+
 Cell Phone: (434)-327-7586
