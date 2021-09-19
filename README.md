@@ -4,7 +4,7 @@ Hello, I am Max Sweet.
 I am currenty an engineering student at Charlottesville High School. I have verious interests in STEM based subjects such as Engineering and Math.
 I also play trumpet in the CHS wind ensemble and march for the CHS Marching Knights.
 
-Right now I am taking DE Engineering III at CHS. I have previously taken Engineering I at Buford Middle School, Foundations of Engineering at Buford Middle School, and Engineering II at Charlottesville High School. I also attended the Buford Summer Engineering Academy in the summer of 2018 and the summer of 2019.
+Right now I am taking DE Engineering IV at CHS. I have previously taken Engineering I at Buford Middle School, Foundations of Engineering at Buford Middle School,  Engineering II at Charlottesville High School, and Engineering III at Charlottesville High School. I also attended the Buford Summer Engineering Academy in the summer of 2018 and the summer of 2019.
 
 My Engineering II Arduino learning experience repo can be found here: https://github.com/msweet53/Not_So_Basic_Arduino
 
