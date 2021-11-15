@@ -12,7 +12,9 @@ My Engineering II projects repo can be found here: https://github.com/ccsjreyes6
 
 My DE Engineering III CircuitPython learning experience repo can be found here: https://github.com/msweet53/CircuitPythonMAXS
 
-Currently I am working on an Electro-magnetic Coil Projectile Launching Device with my friends Max Tyree and Watts Brown. The repo for that can be found here: https://github.com/mtyree18/CoilLauncher
+My Engineering IV Engineering Notebook can be found here: https://github.com/msweet53/Engineering_4_Notebook
+
+Currently I am working on beggining my "Pi in the Sky" project with Watts Brown. We are planning on making a multiple stage rocket that takes images on its descent as a glider. Our shitty incomplete plan can be found here: https://docs.google.com/document/d/16epG2oWzh4r7KIqoeBpqsjbbyMQQ1uHCehuFesklkbw/edit?usp=sharing
 
 You can reach me at my personal email or cell phone number. Both will be listed below.
 
