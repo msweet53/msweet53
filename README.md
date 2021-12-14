@@ -3,7 +3,7 @@ Hello, I am Max Sweet.
 
 My greatest accomplishment ever is this amazing project I made in scratch when I was eleven. The link can be found here: https://scratch.mit.edu/projects/108803669/
 
-I am currenty an engineering student at Charlottesville High School. I have verious interests in STEM based subjects such as Engineering and Math.
+I am currenty an engineering student at Charlottesville High School. I have various interests in STEM based subjects such as Engineering and Math.
 I also play trumpet in the CHS wind ensemble and march for the CHS Marching Knights.
 
 Right now I am taking DE Engineering IV at CHS. I have previously taken Engineering I at Buford Middle School, Foundations of Engineering at Buford Middle School,  Engineering II at Charlottesville High School, and Engineering III at Charlottesville High School. I also attended the Buford Summer Engineering Academy in the summer of 2018 and the summer of 2019.
